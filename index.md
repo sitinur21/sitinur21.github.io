@@ -1,5 +1,5 @@
 ## About me:
-Being one of the current 6th semester students at the Indonesian University of Education, System Education and 
+<align="justify">Being one of the current 6th semester students at the Indonesian University of Education, System Education and 
 Information Technology Study Program. Has gained a lot of knowledge and experience through lecture activities both 
 in the education and IT fields. With high curiosity and trying to explore in adding knowledge and experience, by 
 participating in several activities, one of which is an internship, helping to find an interest in the field of technology and 
