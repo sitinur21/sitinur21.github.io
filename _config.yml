@@ -3,7 +3,8 @@ logo: "/images/logoku.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Being one of the current 6th semester students at the Indonesian University of Education
   <br><br>
-  <a href="https://twitter.com/nurrohmahs901">View My Twitter Profile</a> 
+  <a href="https://twitter.com/nurrohmahs901">View My Twitter Profile</a>
+  <br><br>
   <a href="https://instagram.com/sitinrrhmh21">View My Instagram Profile</a> 
   
 theme: jekyll-theme-minimal
