@@ -43,7 +43,7 @@ explore the capabilities and experience in the Information Technology (IT) field
    - Create pamphlets
    - Operates several multimedia tools owned by Diskominfo Kab. Bandung
 
-B. [System Education and Information Technology Study Program](https://psti.upi.edu/) | Student Intern | Semester 2 (2020)- Semester 4 (2022)
+#### B. [System Education and Information Technology Study Program](https://psti.upi.edu/) | Student Intern | Semester 2 (2020)- Semester 4 (2022)
    1. course project
       - Mobile application design for "e-commerce food" using figma and visual studio code
       - Designing designs and creating programs with the team for the "E-Jajan" application through figma and neatbeans
