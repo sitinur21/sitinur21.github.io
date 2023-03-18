@@ -8,7 +8,7 @@ information, especially UI / UX Design, Multimedia, Data Management, System Anal
 
 ---
 
-### Education
+### Education:
 
 1. [Universitas Pendidikan Indonesia Kampus UPI Purwakarta](https://psti.upi.edu/) | System Education and Information Technology Study Program | Purwakarta `2020- now`
    -  GPA for 5 semesters 3.55
