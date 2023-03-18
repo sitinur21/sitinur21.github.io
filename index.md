@@ -1,23 +1,20 @@
-## Portofolio
-
----
-<h3 align="justify">Being one of the current 6th semester students at the Indonesian University of Education, System Education and 
+## About me:
+Being one of the current 6th semester students at the Indonesian University of Education, System Education and 
 Information Technology Study Program. Has gained a lot of knowledge and experience through lecture activities both 
 in the education and IT fields. With high curiosity and trying to explore in adding knowledge and experience, by 
 participating in several activities, one of which is an internship, helping to find an interest in the field of technology and 
 information, especially UI / UX Design, Multimedia, Data Management, System Analyst. With this I would like to further 
-explore the capabilities and experience in the Information Technology (IT) field</h3>
+explore the capabilities and experience in the Information Technology (IT) field.
 
 ---
 
 ### Education
 
-#### 1. [Universitas Pendidikan Indonesia Kampus UPI Purwakarta](https://psti.upi.edu/) | System Education and Information Technology Study Program | Purwakarta `2020- now`
+1. [Universitas Pendidikan Indonesia Kampus UPI Purwakarta](https://psti.upi.edu/) | System Education and Information Technology Study Program | Purwakarta `2020- now`
    -  GPA for 5 semesters 3.55
    -  National Conference on Education, Systems and Technology Information (NICE –IST) Presenter and author of scientific articles
    -  PDD Staff (Publication, Decoration and Documentation)
-   
- 2. [SMA N 1 Katapang](https://www.sman1katapang.sch.id/htm/) | MIPA | Bandung `2017-2020`
+2. [SMA Negeri 1 Katapang](https://www.sman1katapang.sch.id/htm/) | MIPA | Bandung `2017-2020`
    -  The average value is 86.87
    -  Top 15 Astronomy Olympiad Competition
   
@@ -44,7 +41,7 @@ explore the capabilities and experience in the Information Technology (IT) field
    - Operates several multimedia tools owned by Diskominfo Kab. Bandung
 
 #### B. [System Education and Information Technology Study Program](https://psti.upi.edu/) | Student Intern | Semester 2 (2020)- Semester 4 (2022)
-   1. course project
+      course project
       - Mobile application design for "e-commerce food" using figma and visual studio code
       - Designing designs and creating programs with the team for the "E-Jajan" application through figma and neatbeans
       - Make a mobile application design " daily activity " through figma
@@ -52,9 +49,7 @@ explore the capabilities and experience in the Information Technology (IT) field
       - Compile business process analysis in an e-commerce company
       - Make an arrangement of algorithms from several case studies, one of which is the cashier calculation 
       program
-   2. Systems and Information Technology Education
-      - SICAREPO: Systecin Career Expo PDD Staff (Publication, Decoration and Documentation)
-      - National Conference on Education, Systems and Technology Information (NICE –IST)Presenter and author of scientific article
+
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
