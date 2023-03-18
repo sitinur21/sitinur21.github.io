@@ -18,8 +18,9 @@ information, especially UI / UX Design, Multimedia, Data Management, System Anal
    -  The average value is 86.87
    -  Top 15 Astronomy Olympiad Competition
   
+---
 ## Work Experience:
-#### A. PT. Dinas Komunikasi dan Informatika, Statistik dan Persandian Kab.Bandung](https://diskominfo.bandungkab.go.id/) | Field of Informatics Application | Kab. Bandung July 2022- November 2022
+#### A. [PT. Dinas Komunikasi dan Informatika, Statistik dan Persandian Kab.Bandung](https://diskominfo.bandungkab.go.id/) | Field of Informatics Application | Kab. Bandung July 2022- November 2022
 1. Application Design
    - Make a design landing page design for Diskominfo street vendors in figma
    - Redesigning the Sukamukti Village website, Kab. Bandung in figma
@@ -59,5 +60,6 @@ information, especially UI / UX Design, Multimedia, Data Management, System Anal
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 
+---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
