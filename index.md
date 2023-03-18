@@ -17,7 +17,7 @@ explore the capabilities and experience in the Information Technology (IT) field
    -  National Conference on Education, Systems and Technology Information (NICE –IST) Presenter and author of scientific articles
    -  PDD Staff (Publication, Decoration and Documentation)
    
- #### 2. [SMA N 1 Katapang](https://www.sman1katapang.sch.id/htm/) | MIPA | Bandung `2017-2020`
+ 2. [SMA N 1 Katapang](https://www.sman1katapang.sch.id/htm/) | MIPA | Bandung `2017-2020`
    -  The average value is 86.87
    -  Top 15 Astronomy Olympiad Competition
   
