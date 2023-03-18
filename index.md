@@ -49,7 +49,6 @@ explore the capabilities and experience in the Information Technology (IT) field
       - Compile business process analysis in an e-commerce company
       - Make an arrangement of algorithms from several case studies, one of which is the cashier calculation 
       program
-
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
