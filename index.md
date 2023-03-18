@@ -1,10 +1,6 @@
-## Portfolio
+## Portofolio
 
 ---
-
-### About me
-
-<h1 align="center">Hi 👋, I'm Siti Nurrohmah</h1>
 <h3 align="justify">Being one of the current 6th semester students at the Indonesian University of Education, System Education and 
 Information Technology Study Program. Has gained a lot of knowledge and experience through lecture activities both 
 in the education and IT fields. With high curiosity and trying to explore in adding knowledge and experience, by 
@@ -26,7 +22,7 @@ explore the capabilities and experience in the Information Technology (IT) field
    -  Top 15 Astronomy Olympiad Competition
   
 ## Work Experience:
-#### 1. [PT. Dinas Komunikasi dan Informatika, Statistik dan Persandian Kab.Bandung](https://diskominfo.bandungkab.go.id/) | Field of Informatics Application | Kab. Bandung July 2022- November 2022
+#### A. PT. Dinas Komunikasi dan Informatika, Statistik dan Persandian Kab.Bandung](https://diskominfo.bandungkab.go.id/) | Field of Informatics Application | Kab. Bandung July 2022- November 2022
 1. Application Design
    - Make a design landing page design for Diskominfo street vendors in figma
    - Redesigning the Sukamukti Village website, Kab. Bandung in figma
@@ -47,7 +43,7 @@ explore the capabilities and experience in the Information Technology (IT) field
    - Create pamphlets
    - Operates several multimedia tools owned by Diskominfo Kab. Bandung
 
-#### 2. [System Education and Information Technology Study Program](https://psti.upi.edu/) | Student Intern | Semester 2 (2020)- Semester 4 (2022)
+B. [System Education and Information Technology Study Program](https://psti.upi.edu/) | Student Intern | Semester 2 (2020)- Semester 4 (2022)
    1. course project
       - Mobile application design for "e-commerce food" using figma and visual studio code
       - Designing designs and creating programs with the team for the "E-Jajan" application through figma and neatbeans
@@ -60,5 +56,14 @@ explore the capabilities and experience in the Information Technology (IT) field
       - SICAREPO: Systecin Career Expo PDD Staff (Publication, Decoration and Documentation)
       - National Conference on Education, Systems and Technology Information (NICE –IST)Presenter and author of scientific article
 ---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/nurrohmahs901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nurrohmahs901" height="30" width="40" /></a>
+<a href="https://instagram.com/sitinrrhmh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sitinrrhmh21" height="30" width="40" /></a>
+<a href="https://dribbble.com/nurrohmahs901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nurrohmahs901" height="30" width="40" /></a>
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
